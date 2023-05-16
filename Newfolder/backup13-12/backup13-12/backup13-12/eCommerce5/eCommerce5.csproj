@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	  <PackageReference Include="EntityFramework" Version="6.4.4" />
+
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\eCommerce5.DataAccess\eCommerce5.DataAccess.csproj" />
+		<ProjectReference Include="..\eCommerce5.Models\eCommerce5.Models.csproj" />
+		<ProjectReference Include="..\eCommerce5.Utility\eCommerce5.Utility.csproj" />
+	</ItemGroup>
+
+
+</Project>

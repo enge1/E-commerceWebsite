@@ -1,0 +1,48 @@
+D:\personal\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.deps.json
+D:\personal\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\personal\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.AssemblyReference.cache
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfoInputs.cache
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfo.cs
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.CoreCompileInputs.cache
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.dll
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\refint\eCommerce5.Models.dll
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.pdb
+D:\personal\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\ref\eCommerce5.Models.dll
+D:\final project IT\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.deps.json
+D:\final project IT\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\final project IT\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\ref\eCommerce5.Models.dll
+D:\final project IT\eCommerce5\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.AssemblyReference.cache
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfoInputs.cache
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfo.cs
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.CoreCompileInputs.cache
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.dll
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\ref\eCommerce5.Models.dll
+D:\final project IT\eCommerce5\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.deps.json
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.AssemblyReference.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfoInputs.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfo.cs
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.CoreCompileInputs.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\refint\eCommerce5.Models.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\ref\eCommerce5.Models.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.deps.json
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\ref\eCommerce5.Models.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.AssemblyReference.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfoInputs.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.AssemblyInfo.cs
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.csproj.CoreCompileInputs.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\ref\eCommerce5.Models.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5.Models\obj\Debug\net5.0\eCommerce5.Models.pdb

@@ -1,0 +1,329 @@
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\appsettings.Development.json
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\appsettings.json
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.exe
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.deps.json
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.json
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.dev.json
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.AssemblyReference.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfoInputs.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfo.cs
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CoreCompileInputs.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cs
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\scopedcss\bundle\eCommerce5.styles.css
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.Manifest.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.Pack.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.eCommerce5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.build.eCommerce5.props
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eCommerce5.props
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eCommerce5.props
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.RazorTargetAssemblyInfo.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CopyComplete
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.dll
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\refint\eCommerce5.dll
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.pdb
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.genruntimeconfig.cache
+D:\personal\eCommerce5\eCommerce5\obj\Debug\net5.0\ref\eCommerce5.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\EntityFramework.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.CodeDom.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Dapper.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\personal\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\appsettings.Development.json
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\appsettings.json
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.exe
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.deps.json
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.json
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.dev.json
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\ref\eCommerce5.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Dapper.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\EntityFramework.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.CodeDom.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.dll
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\final project IT\eCommerce5\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.pdb
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.AssemblyReference.cache
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfoInputs.cache
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfo.cs
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CoreCompileInputs.cache
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cs
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cache
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.Manifest.cache
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.xml
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\scopedcss\bundle\eCommerce5.styles.css
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.RazorTargetAssemblyInfo.cache
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CopyComplete
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.dll
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\ref\eCommerce5.dll
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.pdb
+D:\final project IT\eCommerce5\eCommerce5\obj\Debug\net5.0\eCommerce5.genruntimeconfig.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\appsettings.Development.json
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\appsettings.json
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.StaticWebAssets.xml
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.exe
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.deps.json
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.json
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.dev.json
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Dapper.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\EntityFramework.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.CodeDom.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.AssemblyReference.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfoInputs.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfo.cs
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CoreCompileInputs.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cs
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\scopedcss\bundle\eCommerce5.styles.css
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.Manifest.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.Pack.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.eCommerce5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.build.eCommerce5.props
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eCommerce5.props
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eCommerce5.props
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.RazorTargetAssemblyInfo.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CopyComplete
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\refint\eCommerce5.dll
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.pdb
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.genruntimeconfig.cache
+D:\Engy\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\ref\eCommerce5.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\appsettings.json
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.exe
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.deps.json
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.json
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.runtimeconfig.dev.json
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\ref\eCommerce5.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Dapper.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\EntityFramework.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.CodeDom.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.DataAccess.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Models.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\bin\Debug\net5.0\eCommerce5.Utility.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.AssemblyReference.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfoInputs.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.AssemblyInfo.cs
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CoreCompileInputs.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cs
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.Manifest.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\staticwebassets\eCommerce5.StaticWebAssets.xml
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\scopedcss\bundle\eCommerce5.styles.css
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.RazorTargetAssemblyInfo.cache
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.csproj.CopyComplete
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\ref\eCommerce5.dll
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.pdb
+D:\Education\Graduation level (Fourth)\First Semester\E-Commerce\New folder\backup13-12\backup13-12\backup13-12\eCommerce5\obj\Debug\net5.0\eCommerce5.genruntimeconfig.cache

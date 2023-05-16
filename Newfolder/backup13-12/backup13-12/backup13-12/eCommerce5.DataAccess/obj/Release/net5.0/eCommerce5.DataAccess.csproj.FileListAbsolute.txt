@@ -1,0 +1,12 @@
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\bin\Release\net5.0\eCommerce5.DataAccess.deps.json
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\bin\Release\net5.0\eCommerce5.DataAccess.dll
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\bin\Release\net5.0\ref\eCommerce5.DataAccess.dll
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\bin\Release\net5.0\eCommerce5.DataAccess.pdb
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.csproj.AssemblyReference.cache
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.AssemblyInfoInputs.cache
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.AssemblyInfo.cs
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.csproj.CoreCompileInputs.cache
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.dll
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\ref\eCommerce5.DataAccess.dll
+D:\final project IT\eCommerce5\eCommerce5.DataAccess\obj\Release\net5.0\eCommerce5.DataAccess.pdb

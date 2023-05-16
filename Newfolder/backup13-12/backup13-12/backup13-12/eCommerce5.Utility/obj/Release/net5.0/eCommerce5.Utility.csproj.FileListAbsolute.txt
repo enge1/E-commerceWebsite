@@ -1,0 +1,12 @@
+D:\final project IT\eCommerce5\eCommerce5.Utility\bin\Release\net5.0\eCommerce5.Utility.deps.json
+D:\final project IT\eCommerce5\eCommerce5.Utility\bin\Release\net5.0\eCommerce5.Utility.dll
+D:\final project IT\eCommerce5\eCommerce5.Utility\bin\Release\net5.0\ref\eCommerce5.Utility.dll
+D:\final project IT\eCommerce5\eCommerce5.Utility\bin\Release\net5.0\eCommerce5.Utility.pdb
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.csproj.AssemblyReference.cache
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.AssemblyInfoInputs.cache
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.AssemblyInfo.cs
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.csproj.CoreCompileInputs.cache
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.dll
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\ref\eCommerce5.Utility.dll
+D:\final project IT\eCommerce5\eCommerce5.Utility\obj\Release\net5.0\eCommerce5.Utility.pdb
